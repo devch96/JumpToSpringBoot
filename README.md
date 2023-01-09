@@ -1,2 +1,1 @@
-# JumpToSpringBooth
-hi
+# JumpToSpringBoot
